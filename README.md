@@ -1,16 +1,24 @@
-### Hi there 👋
+# Samuel Baldasso
 
-<!--
-**samuelbaldasso/samuelbaldasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Sou Samuel Baldasso, um desenvolvedor Java apaixonado trabalhando na NTT DATA. Moro em Macaé, RJ, e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Tecnologias
+- **Linguagem Principal:** Java
+- **Outras Linguagens:** JavaScript, Dart
+- **Frameworks e Ferramentas:** Spring Boot, NodeJS, React, Flutter, KnexJS, SQLite, PostgreSQL, Sequelize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+Aqui estão alguns dos projetos em que trabalhei:
+- [movies_frontend_react](https://github.com/samuelbaldasso/movies_frontend_react): Uma aplicação React para um backend de filmes em NodeJS.
+- [movies_backend_nodejs](https://github.com/samuelbaldasso/movies_backend_nodejs): Aplicação NodeJS com KnexJS e SQLite para operações CRUD em filmes e tags.
+- [teste_verzel_flutter_nodejs](https://github.com/samuelbaldasso/teste_verzel_flutter_nodejs): Aplicativo móvel Fullstack em Flutter e NodeJS para consulta de veículos.
+- [combo-backend](https://github.com/samuelbaldasso/combo-backend): Aplicação backend Java e Spring Boot para restaurantes.
+- [food_explorer_nodejs](https://github.com/samuelbaldasso/food_explorer_nodejs): Backend NodeJS para restaurantes usando KnexJS e SQLite3.
+- [books-api](https://github.com/samuelbaldasso/books-api): Aplicação backend Spring Boot em Java para uma biblioteca.
+
+## Conecte-se Comigo
+- **Twitter:** [@samuelbaldasso](https://twitter.com/samuelbaldasso)
+- **LinkedIn:** [Samuel Baldasso](https://www.linkedin.com/in/samuel-baldasso-91903b141/)
+
+---
