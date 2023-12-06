@@ -10,7 +10,6 @@ Olá! Sou Samuel Baldasso, um desenvolvedor Java apaixonado trabalhando na NTT D
 
 ## Projetos
 Aqui estão alguns dos projetos em que trabalhei:
-- [movies_frontend_react](https://github.com/samuelbaldasso/movies_frontend_react): Uma aplicação React para um backend de filmes em NodeJS.
 - [movies_backend_nodejs](https://github.com/samuelbaldasso/movies_backend_nodejs): Aplicação NodeJS com KnexJS e SQLite para operações CRUD em filmes e tags.
 - [teste_verzel_flutter_nodejs](https://github.com/samuelbaldasso/teste_verzel_flutter_nodejs): Aplicativo móvel Fullstack em Flutter e NodeJS para consulta de veículos.
 - [combo-backend](https://github.com/samuelbaldasso/combo-backend): Aplicação backend Java e Spring Boot para restaurantes.
