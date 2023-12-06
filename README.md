@@ -6,7 +6,7 @@ Olá! Sou Samuel Baldasso, um desenvolvedor Java apaixonado trabalhando na NTT D
 ## Tecnologias
 - **Linguagem Principal:** Java
 - **Outras Linguagens:** JavaScript, Dart
-- **Frameworks e Ferramentas:** Spring Boot, NodeJS, React, Flutter, KnexJS, SQLite, PostgreSQL, Sequelize
+- **Frameworks e Ferramentas:** Spring Boot, NodeJS, Flutter, KnexJS, SQLite, PostgreSQL, Sequelize
 
 ## Projetos
 Aqui estão alguns dos projetos em que trabalhei:
