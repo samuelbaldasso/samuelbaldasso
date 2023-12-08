@@ -1,7 +1,7 @@
 # Samuel Baldasso
 
 ## Sobre Mim
-Olá! Sou Samuel Baldasso, um desenvolvedor Java / NodeJS apaixonado trabalhando na NTT DATA. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software.
+Olá! Sou Samuel Baldasso, um desenvolvedor Java / Spring Boot / NodeJS apaixonado trabalhando na NTT DATA. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software.
 
 ## Tecnologias
 - **Linguagens Principais:** Java, JavaScript
