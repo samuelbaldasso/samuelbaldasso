@@ -41,7 +41,3 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
 ## Conecte-se Comigo
 
 - **LinkedIn:** [Samuel Baldasso](https://www.linkedin.com/in/samuel-baldasso-91903b141/)
-
----
-
-
