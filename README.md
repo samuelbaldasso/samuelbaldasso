@@ -26,7 +26,7 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
     🐬 MySQL
     🐳 Docker
     💻 TypeScript
-    💼 Angular 2+
+    💼 Angular 2+,
     
     entre outras ferramentas e linguagens.
 
