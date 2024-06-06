@@ -6,6 +6,7 @@ Olá! Sou Samuel Baldasso, desenvolvedor Angular 2+ / Java / Spring na NTT DATA.
     🏦 Itaú
     🏭 Raia Drogasil
     🏢 Allianz (2x)
+    🏢 Ambev
     💼 NTT DATA (Consultoria de TI),
 
     entre outros.
