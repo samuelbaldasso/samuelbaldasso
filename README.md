@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular 2+ / Java / Spring na NTT DATA. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software. Possuo uma sólida formação acadêmica e experiência profissional em projetos desafiadores, tais como: 
+Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Java / Kotlin / Spring na NTT DATA. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software. Possuo uma sólida formação acadêmica e experiência profissional em projetos desafiadores, tais como: 
 
     🏦 Itaú
     💼 Ambev
@@ -23,6 +23,7 @@ Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular 
 Minhas principais habilidades, tecnologias e ferramentas incluem:
 
     💻 Java
+    💻 Kotlin
     💼 Spring Framework
     🛠️ Hibernate
     📊 SQL
