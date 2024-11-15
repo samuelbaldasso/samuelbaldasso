@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular / Java / Spring. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software. Possuo uma sólida formação acadêmica e experiência profissional em projetos desafiadores, tais como: 
+Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular 2+. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software. Possuo uma sólida formação acadêmica e experiência profissional em projetos desafiadores, tais como: 
 
     💼 Ambev
     🏭 Raia Drogasil
@@ -12,8 +12,8 @@ Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular 
 ---
 
 ## Tecnologias
-- **Linguagens Principais:** Java, Kotlin, entre outras.
-- **Frameworks e Ferramentas:** Angular 2+, Git / GitHub / GitLab, Ionic 4+, MySQL, Spring Boot, JBoss, PostgreSQL, SQLite3, entre outras ferramentas.
+- **Linguagens Principais:** JavaScript, TypeScript, entre outras.
+- **Frameworks e Ferramentas:** Angular 2+, Git / GitHub / GitLab, Ionic 4+, entre outras ferramentas.
 
 ---
 
@@ -21,17 +21,17 @@ Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Angular 
 
 Minhas principais habilidades, tecnologias e ferramentas incluem:
 
-    💻 Java
-    💻 Kotlin
-    💼 Spring Framework
-    🛠️ Hibernate
-    📊 SQL
-    📦 Maven
-    🖥️ IntelliJ IDEA
-    💾 Redis
-    🍃 MongoDB
-    🐘 PostgreSQL
-    🐬 MySQL
+    💻 Angular Material
+    💻 RxJs
+    💼 TypeScript
+    🛠️ JavaScript / ES6
+    📊 NgRx
+    📦 WebStorm
+    🖥️ VSCode
+    💾 PrimeNG
+    🍃 Karma
+    🐘 Jasmine
+    🐬 Integração front-back via BFF´s 
     🐳 Docker
     💻 TypeScript
     💼 Angular 2+,
@@ -48,7 +48,7 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
 
 ## Objetivo
 
-Estou sempre buscando aprender e crescer como desenvolvedor backend Java. Meu objetivo é continuar enfrentando desafios interessantes e contribuir para projetos que fazem a diferença para outros.
+Estou sempre buscando aprender e crescer como desenvolvedor frontend Angular. Meu objetivo é continuar enfrentando desafios interessantes e contribuir para projetos que fazem a diferença para outros.
 
 ---
 
