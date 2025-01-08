@@ -8,9 +8,13 @@ Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha com Java / S
 
 🏭 Raia Drogasil
 
+🏭 Vivo
+
 🏢 Allianz (2x)
 
 💼 NTT DATA (Consultoria de TI)
+
+💼 CI&T (Consultoria de TI)
 
 
 ## Tecnologias e hablidades
