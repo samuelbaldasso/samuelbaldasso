@@ -1,27 +1,29 @@
 # Samuel Baldasso
 
-## Sobre Mim
+## About Me
 
-Olá! Sou Samuel Baldasso, um desenvolvedor que atualmente trabalha como Java fullstack. Moro em Macaé, Rio de Janeiro e sou entusiasta na criação de soluções de software eficientes e escaláveis. No meu tempo livre, gosto de contribuir para vários projetos e expandir meu conhecimento em desenvolvimento de software. Possuo uma sólida formação acadêmica e experiência profissional em projetos desafiadores, tais como:
+Hi, I'm Samuel Baldasso, a developer currently working with Java backend. I live in Macaé, Rio de Janeiro and I'm enthusiastic about creating efficient and scalable software solutions. In my spare time, I like to contribute to various projects and expand my knowledge of software development. I have a solid academic background and professional experience in challenging projects such as:
 
 💼 Ambev
 
-🏭 Raia Drogasil
+🏢 Raia Drogasil
 
-🏭 Vivo
+🏢 Vivo
 
 🏢 Allianz (2x)
 
-💼 NTT DATA (Consultoria de TI)
+💼 NTT DATA (IT Consulting)
 
-💼 CI&T (Consultoria de TI)
+💼 CI&T (IT Consulting)
 
-💼 Montreal (Consultoria de TI)
+💼 Montreal (IT Consulting)
+
+🏢 IBM
 
 
-## Tecnologias e hablidades
+## Technologies and skills
 
-Minhas principais habilidades, tecnologias e ferramentas incluem:
+My main skills, technologies and tools include:
 
 💻 Java
 
@@ -47,7 +49,7 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
 
 🐳 Docker
 
-💻 TypeScript
+🏢 TypeScript
 
 💼 Angular 2+,
 
@@ -55,19 +57,19 @@ Minhas principais habilidades, tecnologias e ferramentas incluem:
 
 💼 React / NextJS,
 
-entre outras ferramentas e linguagens.
+among other tools and languages.
 
 
-## Formação Acadêmica
+## Academic background
 
-🎓 Graduado em Sistemas de Informação - FeMASS desde 2023.
-
-
-## Objetivo
-
-Estou sempre buscando aprender e crescer como desenvolvedor fullstack Java. Meu objetivo é continuar enfrentando desafios interessantes e contribuir para projetos que fazem a diferença para outros.
+🎓 Graduated in Information Systems - FeMASS since 2023.
 
 
-## Conecte-se Comigo
+## Objective
 
-LinkedIn: https://www.linkedin.com/in/samuel-baldasso-91903b141/
+I'm always looking to learn and grow as a fullstack Java developer. My goal is to keep facing interesting challenges and contribute to projects that make a difference to others.
+
+
+## Connect with me
+
+LinkedIn: https://www.linkedin.com/in/samuel-baldasso-java-developer
