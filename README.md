@@ -1,75 +1,40 @@
-# Samuel Baldasso
+# Samuel Baldasso - Java Fullstack Developer
 
-## About Me
+## 👨‍💻 About Me
 
-Hi, I'm Samuel Baldasso, a developer currently working with Java backend. I live in Macaé, Rio de Janeiro and I'm enthusiastic about creating efficient and scalable software solutions. In my spare time, I like to contribute to various projects and expand my knowledge of software development. I have a solid academic background and professional experience in challenging projects such as:
+Hi! I'm Samuel Baldasso, a backend Java developer based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and am always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
 
-💼 Ambev
+- 💼 Ambev
+- 🏢 Raia Drogasil
+- 🏢 Vivo
+- 🏢 Allianz (2x)
+- 💼 NTT DATA (IT Consulting)
+- 💼 CI&T (IT Consulting)
+- 💼 Montreal (IT Consulting)
+- 🏢 IBM (IT Consulting)
+- 🏢 Bradesco
 
-🏢 Raia Drogasil
+## 🚀 Technologies & Skills
 
-🏢 Vivo
+My main skills, technologies and tools:
 
-🏢 Allianz (2x)
+- 💻 Java | Kotlin
+- 🌱 Spring Framework | Hibernate
+- 🗄️ SQL | PostgreSQL | MySQL | MongoDB | Redis
+- 📦 Maven
+- 🐳 Docker
+- 🖥️ IntelliJ IDEA
+- 💻 TypeScript | Angular 2+ | Vue 2+ | React / NextJS
+- 🔧 Others: Git, REST, automated testing, Clean Code, architecture best practices
 
-💼 NTT DATA (IT Consulting)
+## 🎓 Academic Background
 
-💼 CI&T (IT Consulting)
+Bachelor's degree in Information Systems from FeMASS (2023).
 
-💼 Montreal (IT Consulting)
+## 🎯 Objective
 
-🏢 IBM
+I am always looking to grow as a fullstack Java developer, facing interesting challenges and contributing to projects that make a positive impact.
 
+## 🌐 Contact
 
-## Technologies and skills
-
-My main skills, technologies and tools include:
-
-💻 Java
-
-💻 Kotlin
-
-💼 Spring Framework
-
-🛠️ Hibernate
-
-📊 SQL
-
-📦 Maven
-
-🖥️ IntelliJ IDEA
-
-💾 Redis
-
-🍃 MongoDB
-
-🐘 PostgreSQL
-
-🐬 MySQL
-
-🐳 Docker
-
-🏢 TypeScript
-
-💼 Angular 2+,
-
-💼 Vue 2+,
-
-💼 React / NextJS,
-
-among other tools and languages.
-
-
-## Academic background
-
-🎓 Graduated in Information Systems - FeMASS since 2023.
-
-
-## Objective
-
-I'm always looking to learn and grow as a fullstack Java developer. My goal is to keep facing interesting challenges and contribute to projects that make a difference to others.
-
-
-## Connect with me
-
-LinkedIn: https://www.linkedin.com/in/samuel-baldasso-java-developer
+[LinkedIn](https://www.linkedin.com/in/samuel-baldasso-java-developer)
