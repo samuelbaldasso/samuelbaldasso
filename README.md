@@ -1,18 +1,20 @@
-# Samuel Baldasso - Java Fullstack Developer
+# Samuel Baldasso - Java Software Engineer
 
 ## 👨‍💻 About Me
 
-Hi! I'm Samuel Baldasso, a backend Java developer based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and am always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
+Hi! I'm Samuel Baldasso, a backend Java SDE based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and am always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
 
-- 💼 Ambev
+- 🏢 Ambev
 - 🏢 Raia Drogasil
 - 🏢 Vivo
 - 🏢 Allianz (2x)
+- 🏢 Bradesco
+- 🏢 DASA
 - 💼 NTT DATA (IT Consulting)
 - 💼 CI&T (IT Consulting)
 - 💼 Montreal (IT Consulting)
-- 🏢 IBM (IT Consulting)
-- 🏢 Bradesco
+- 💼 IBM (IT Consulting)
+- 💼 Challenges on PicPay, Amazon, Itaú Unibanco and other companies
 
 ## 🚀 Technologies & Skills
 
@@ -33,7 +35,7 @@ Bachelor's degree in Information Systems from FeMASS (2023).
 
 ## 🎯 Objective
 
-I am always looking to grow as a fullstack Java developer, facing interesting challenges and contributing to projects that make a positive impact.
+I am always looking to grow as a Java backend SDE, facing interesting challenges and contributing to projects that make a positive impact.
 
 ## 🌐 Contact
 
