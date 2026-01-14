@@ -1,33 +1,52 @@
-# Samuel Baldasso - Java Software Engineer
+# Samuel Baldasso - Mobile Software Engineer (Android & Backend Background)
 
 ## 👨‍💻 About Me
 
-Hi! I'm Samuel Baldasso, a backend Java SDE based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and am always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
+Hi! I'm Samuel Baldasso, a Mobile Software Engineer based in Macaé, Rio de Janeiro. I am passionate about building efficient, responsive, and user-centric mobile applications using Kotlin and Java.
 
-- 🏢 Ambev
-- 🏢 Raia Drogasil
-- 🏢 Vivo
-- 🏢 Allianz (2x)
-- 🏢 Bradesco
-- 🏢 DASA
-- 💼 NTT DATA (IT Consulting)
-- 💼 CI&T (IT Consulting)
-- 💼 Montreal (IT Consulting)
-- 💼 IBM (IT Consulting)
-- 💼 Challenges on PicPay, Amazon, Itaú Unibanco and other companies
+My distinctive edge lies in my solid background as a Backend SDE. This experience allows me to architect robust mobile solutions, deeply understanding API integrations, data synchronization, and scalable architecture from the database to the UI. I’m always looking to expand my knowledge in technology and contribute to open source projects.
+
+I have a solid academic background and professional experience in challenging projects across major industries, having worked at companies such as:
+
+    🏢 Ambev
+
+    🏢 Raia Drogasil
+
+    🏢 Vivo
+
+    🏢 Allianz (2x)
+
+    🏢 Bradesco
+
+    🏢 DASA
+
+    💼 NTT DATA (IT Consulting)
+
+    💼 CI&T (IT Consulting)
+
+    💼 Montreal (IT Consulting)
+
+    💼 IBM (IT Consulting)
+
+    💼 Challenges on PicPay, Amazon, Itaú Unibanco and other companies
 
 ## 🚀 Technologies & Skills
 
-My main skills, technologies and tools:
+My main skills, focusing on Mobile development with strong Backend integration capabilities:
 
-- 💻 Java | Kotlin
-- 🌱 Spring Framework | Hibernate
-- 🗄️ SQL | PostgreSQL | MySQL | MongoDB | Redis
-- 📦 Maven
-- 🐳 Docker
-- 🖥️ IntelliJ IDEA
-- 💻 TypeScript | Angular 2+ | Vue 2+ | React / NextJS
-- 🔧 Others: Git, REST, automated testing, Clean Code, architecture best practices
+    📱 Mobile & Core: Kotlin (Android Native) | Java
+
+    🛠️ Mobile Tools: Android SDK | Gradle | Clean Architecture | MVVM/MVI
+
+    🌱 Backend & Integration: Spring Framework | Hibernate | RESTful APIs
+
+    🗄️ Data Persistence: SQL | SQLite/Room | PostgreSQL | MySQL | MongoDB | Redis
+
+    🐳 DevOps & Tools: Docker | Maven | Git | Automated Testing
+
+    💻 Frontend & Hybrid: TypeScript | React (React Native ready) | Angular 2+ | Vue 2+
+
+    🔧 Practices: Clean Code, Design Patterns, SOLID, Scalable Architecture
 
 ## 🎓 Academic Background
 
@@ -35,8 +54,8 @@ Bachelor's degree in Information Systems from FeMASS (2023).
 
 ## 🎯 Objective
 
-I am always looking to grow as a Java backend SDE, facing interesting challenges and contributing to projects that make a positive impact.
+I am looking to grow as a Mobile Software Engineer, leveraging my backend expertise to solve complex architectural challenges and contribute to projects that deliver seamless user experiences.
 
 ## 🌐 Contact
-
-[LinkedIn](https://www.linkedin.com/in/samuel-baldasso-java-developer)
+[
+LinkedIn](https://www.linkedin.com/in/samuel-baldasso-java-developer)
