@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Samuel Baldasso, a backend Java SDE based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and am always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
+Hi! I'm Samuel Baldasso, a backend Java SDE based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
 
 - 🏢 Ambev
 - 🏢 Raia Drogasil
