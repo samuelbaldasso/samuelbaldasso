@@ -1,42 +1,34 @@
-# Samuel Baldasso - Java Software Engineer
+# Samuel Baldasso — Backend Software Engineer (Java)
 
-## 👨‍💻 About Me
+Backend Software Engineer focused on building scalable, production-ready backend systems using Java and cloud-native technologies.
 
-Hi! I'm Samuel Baldasso, a backend Java SDE based in Macaé, Rio de Janeiro. I'm passionate about building efficient and scalable software solutions. In my free time, I contribute to open source projects and always looking to expand my knowledge in technology. I have a solid academic background and professional experience in challenging projects, having worked at companies such as:
+## What I do
 
-- 🏢 Ambev
-- 🏢 Raia Drogasil
-- 🏢 Vivo
-- 🏢 Allianz (2x)
-- 🏢 Bradesco
-- 🏢 DASA
-- 💼 NTT DATA (IT Consulting)
-- 💼 CI&T (IT Consulting)
-- 💼 Montreal (IT Consulting)
-- 💼 IBM (IT Consulting)
-- 💼 Challenges on PicPay, Amazon, Itaú Unibanco and other companies
+- Build REST APIs and microservices using Spring Boot and Quarkus
+- Design backend architectures for scalability and maintainability
+- Optimize performance and reliability in production systems
+- Work with cloud environments (AWS, Azure) and containerized applications
 
-## 🚀 Technologies & Skills
+## Key Projects
 
-My main skills, technologies and tools:
+### Banking Core System
+- Core backend system simulating real-world financial operations
+- Emphasis on domain modeling and data consistency
 
-- 💻 Java | Kotlin
-- 🌱 Spring Framework | Hibernate
-- 🗄️ SQL | PostgreSQL | MySQL | MongoDB | Redis
-- 📦 Maven
-- 🐳 Docker
-- 🖥️ IntelliJ IDEA
-- 💻 TypeScript | Angular 2+ | Vue 2+ | React / NextJS
-- 🔧 Others: Git, REST, automated testing, Clean Code, architecture best practices
+### Subscription B2C Service
+- Backend system for subscription-based platforms
+- Includes business rules, API design and persistence strategies
 
-## 🎓 Academic Background
+## Tech Stack
 
-Bachelor's degree in Information Systems from FeMASS (2023).
+Java • Spring Boot • Quarkus • REST APIs • Microservices  
+Docker • AWS • Azure • PostgreSQL • MongoDB  
+JUnit • Mockito • CI/CD  
 
-## 🎯 Objective
+## Background
 
-I am always looking to grow as a Java backend SDE, facing interesting challenges and contributing to projects that make a positive impact.
+Experience working on enterprise consulting projects, contributing to high-traffic systems, legacy modernization and backend improvements in production environments.
 
-## 🌐 Contact
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/samuel-baldasso-java-developer)
+LinkedIn: www.linkedin.com/in/samuel-baldasso-java-developer
