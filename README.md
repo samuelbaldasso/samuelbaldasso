@@ -21,8 +21,10 @@ Backend Software Engineer focused on building scalable, production-ready backend
 
 ## Tech Stack
 
-Java • Spring Boot • Quarkus • REST APIs • Microservices  
+Java • Spring Boot • Quarkus • REST APIs • Microservices
+
 Docker • AWS • Azure • PostgreSQL • MongoDB  
+
 JUnit • Mockito • CI/CD  
 
 ## Background
