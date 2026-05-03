@@ -33,4 +33,4 @@ Experience working on enterprise consulting projects, contributing to high-traff
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/samuel-baldasso-java-developer
+LinkedIn: www.linkedin.com/in/samuel-baldasso
