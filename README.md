@@ -1,36 +1,56 @@
-# Samuel Baldasso — Backend Software Engineer (Java)
+# Samuel Baldasso — Android Software Engineer
 
-Backend Software Engineer focused on building scalable, production-ready backend systems using Java and cloud-native technologies.
+Android engineer with 3+ years of experience delivering production mobile applications
+for large enterprises in Brazil. Focused on Kotlin, Jetpack Compose, MVVM,
+Clean Architecture, and Hilt.
+
+---
 
 ## What I do
 
-- Build REST APIs and microservices using Spring Boot and Quarkus
-- Design backend architectures for scalability and maintainability
-- Optimize performance and reliability in production systems
-- Work with cloud environments (AWS, Azure) and containerized applications
+- Build Android apps with Kotlin, Jetpack Compose, and Clean Architecture
+- Design reactive data layers with StateFlow, Room, and Coroutines
+- Integrate maps and location features (Google Maps SDK, Navigation SDK)
+- Ship cross-platform mobile features with Flutter (BLoC)
+- Connect mobile apps to REST APIs and backend microservices
+
+---
 
 ## Key Projects
 
-### Banking Core System
-- Core backend system simulating real-world financial operations
-- Emphasis on domain modeling and data consistency
+### Android-TMDB-App
+Movie discovery app built with Kotlin and Jetpack Compose.
+- MVVM + Clean Architecture + Hilt + StateFlow + Room
+- Retrofit for REST API consumption (TMDB API)
+- Unit tests with JUnit and Mockito
+> [View repository →](https://github.com/samuelbaldasso/Android-TMDB-App)
 
-### Subscription B2C Service
-- Backend system for subscription-based platforms
-- Includes business rules, API design and persistence strategies
+### Bees Force — AbInBev (NTT DATA, 2022–2024)
+Production field-force app used by thousands of AbInBev collaborators.
+- Jetpack Compose · MVVM · Hilt · StateFlow · Google Maps SDK · Navigation SDK
+- 30% rendering improvement via Compose profiling and state optimization
+- Private repository (enterprise client project)
+
+---
 
 ## Tech Stack
 
-Java • Spring Boot • Quarkus • REST APIs • Microservices
+**Android:** Kotlin · Jetpack Compose · MVVM · Clean Architecture · Hilt · StateFlow · Room · Coroutines · Retrofit · Google Maps SDK
 
-Docker • AWS • Azure • PostgreSQL • MongoDB  
+**Cross-platform:** Flutter · Dart · BLoC
 
-JUnit • Mockito • CI/CD  
+**Backend / Other:** Java · Spring Boot · Node.js · TypeScript · REST APIs · PostgreSQL · Docker
+
+---
 
 ## Background
 
-Experience working on enterprise consulting projects, contributing to high-traffic systems, legacy modernization and backend improvements in production environments.
+Delivered mobile solutions at NTT DATA for clients including AbInBev (Bees Force — Android)
+and Allianz (Flutter). Currently at IBM working on enterprise backend platforms.
+Promoted from intern to mid-level (Pleno) in 2.5 years.
+
+---
 
 ## Contact
 
-LinkedIn: www.linkedin.com/in/samuel-baldasso
+LinkedIn: [linkedin.com/in/samuelbaldasso](https://linkedin.com/in/samuelbaldasso) | Email: baldassosamuel93@gmail.com
