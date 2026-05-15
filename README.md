@@ -53,4 +53,4 @@ Promoted from intern to mid-level (Pleno) in 2.5 years.
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/samuelbaldasso](https://linkedin.com/in/samuelbaldasso) | Email: baldassosamuel93@gmail.com
+LinkedIn: [linkedin.com/in/samuel-baldasso](https://linkedin.com/in/samuel-baldasso) | Email: baldassosamuel93@gmail.com
