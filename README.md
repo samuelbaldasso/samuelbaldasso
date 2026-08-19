@@ -44,10 +44,6 @@ Backend system for subscription-based platforms, including business rules, API d
 
 Experience working on enterprise consulting projects, contributing to high-traffic systems, legacy modernization and backend improvements in production environments.
 
-## GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelbaldasso&show_icons=true&theme=default)
-
 ## Contact
 
 - LinkedIn: [linkedin.com/in/samuel-baldasso](https://www.linkedin.com/in/samuel-baldasso)
