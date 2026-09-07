@@ -1,48 +1,41 @@
 # Hi, I'm Samuel Baldasso 👋
 
-**Backend Software Engineer (Java)** focused on building scalable, production-ready backend systems using Java and cloud-native technologies.
+Software Engineer with a background spanning native mobile, front-end, and Java backend — currently full-stack (Java + React) at IBM.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--baldasso-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-baldasso)
 
+## Background
+
+I started as an Android intern at NTT DATA and, over ~2.5 years, rotated through several corporate projects: AbInBev's B2B field app (Kotlin, Jetpack Compose, Clean Architecture), the nationwide Allianz Auto app (Flutter), React/Next.js micro frontends (RD Saúde), and my first professional Java work — Java EE integrated with legacy IBM DB2/COBOL systems (Allianz), alongside Angular.
+
+Over the last ~2 years I've focused more on Java backend — microservices, messaging, observability — across CI&T, Montreal Informática, and now IBM, where I've also picked front-end work back up on my current project.
+
+I like moving across layers: the mobile/web client as much as the API behind it.
+
 ## What I do
 
-- Build REST APIs and microservices using Spring Boot and Quarkus
-- Design backend architectures for scalability and maintainability
-- Optimize performance and reliability in production systems
-- Work with cloud environments (AWS, Azure) and containerized applications
+- Backend: Java (Spring Boot, Quarkus, JAX-RS), microservices, Kafka
+- Mobile: native Android (Kotlin, Jetpack Compose), Flutter
+- Front-end: React, Angular, Next.js
+- Currently: full-stack Java + React
 
-## Key Projects
+## Learning Projects
 
-### Banking Core System
-Core backend system simulating real-world financial operations, with emphasis on domain modeling and data consistency.
+These are self-directed projects I built to work through specific distributed-systems patterns — not production deployments, no live traffic or load testing behind the numbers you might see referenced elsewhere. Happy to walk through the design decisions in an interview.
 
-### Subscription B2C Service
-Backend system for subscription-based platforms, including business rules, API design and persistence strategies.
+- **[Java-Banking-Core](https://github.com/samuelbaldasso/Java-Banking-Core)** — double-entry ledger implementing DDD, Transactional Outbox, pessimistic locking, and AES-256 field encryption.
+- **[Java-Subscription-B2C-Service](https://github.com/samuelbaldasso/Java-Subscription-B2C-Service)** — B2C subscription system exploring Transactional Outbox, Kafka idempotency, Redis caching, and Resilience4j circuit breakers.
+- **[Java-Uber-Like-App](https://github.com/samuelbaldasso/Java-Uber-Like-App)** — backend for a ride-hailing-style app: RBAC, JWT, WebSockets for real-time updates.
+- **[Node-Nest-Restaurant-Management](https://github.com/samuelbaldasso/Node-Nest-Restaurant-Management)** — NestJS multi-tenant restaurant/ordering backend.
+- **[Go-Rate-Limiter-Service](https://github.com/samuelbaldasso/Go-Rate-Limiter-Service)** — HTTP rate limiter in Go implementing the Token Bucket algorithm with the standard library only.
 
 ## Tech Stack
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?logo=quarkus&logoColor=white)
-
-**Cloud & Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-
-**Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**Testing & CI/CD**
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78C947?logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-blue)
-
-## Background
-
-Experience working on enterprise consulting projects, contributing to high-traffic systems, legacy modernization and backend improvements in production environments.
+**Languages & Frameworks:** Java · Spring Boot · Quarkus · Kotlin · TypeScript
+**Mobile:** Android (Jetpack Compose) · Flutter
+**Front-end:** React · Angular · Next.js
+**Data:** PostgreSQL · MongoDB · Redis
+**Infra:** Docker · AWS · Kafka
 
 ## Contact
 
