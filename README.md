@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Baldasso 👋
 
-I'm a Mid-Level Software Engineer with **over 4 years of experience** focused on **Java Backend development (Spring Boot, Quarkus, Microservices, AWS)**. I currently build scalable, high-impact solutions at IBM.
+I'm a Mid-Level Software Engineer with **over 5 years of experience** focused on **Java Backend development (Spring Boot, Quarkus, Microservices, AWS)**. I currently build scalable, high-impact solutions at IBM.
 
 My core expertise lies in designing and architecting robust, distributed backend services. Having a solid foundation in the Mobile ecosystem (Android/Kotlin) has deeply refined how I build the backend: I have a critical perspective on API design and client-server contracts, ensuring that systems are efficient from end to end.
 
@@ -19,5 +19,4 @@ My core expertise lies in designing and architecting robust, distributed backend
 * **Architecture & Patterns:** Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture, Distributed Systems Design
 
 ### 🛠️ Featured Projects
-* 🏦 **[Java-Banking-Core](https://github.com/samuelbaldasso/Java-Banking-Core)** - Double-entry banking ledger core exploring DDD, Transactional Outbox, and pessimistic locking.
-* 🔄 **[Java-Subscription-B2C-Service](https://github.com/samuelbaldasso/Java-Subscription-B2C-Service)** - B2C system exploring distributed systems patterns like Kafka idempotency and Resilience4j circuit breakers.
+* 🏦 **[Java-Banking-Core](https://github.com/samuelbaldasso/java-ledger-core)** - Double-entry banking ledger core exploring DDD, Transactional Outbox, and pessimistic locking.
