@@ -19,4 +19,5 @@ My core expertise lies in designing and architecting robust, distributed backend
 * **Architecture & Patterns:** Domain-Driven Design (DDD), Clean Architecture, Hexagonal Architecture, Distributed Systems Design
 
 ### 🛠️ Featured Projects
-* 🏦 **[Java-Banking-Core](https://github.com/samuelbaldasso/java-ledger-core)** - Double-entry banking ledger core exploring DDD, Transactional Outbox, and pessimistic locking.
+
+* 🏦 **[Java Ledger Core](https://github.com/samuelbaldasso/java-ledger-core)** — Banking ledger REST API built with Java 21, Spring Boot, and PostgreSQL, featuring double-entry bookkeeping, transactional consistency, pessimistic locking, idempotent transfers, and integration tests.
